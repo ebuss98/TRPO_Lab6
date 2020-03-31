@@ -1,0 +1,18 @@
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/bin/Debug/Calculator_TRPO.exe.config
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/bin/Debug/Calculator_TRPO.exe
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/bin/Debug/Calculator_TRPO.pdb
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.csprojAssemblyReference.cache
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.Form1.resources
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.Properties.Resources.resources
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.csproj.GenerateResource.cache
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.exe
+C:/Users/aleks/OneDrive/Рабочий стол/ЭВМ/Calculator_TRPO/obj/Debug/Calculator_TRPO.pdb
+/Users/evgenijbuss/Downloads/Calculator_TRPO/bin/Debug/Calculator_TRPO.exe.config
+/Users/evgenijbuss/Downloads/Calculator_TRPO/bin/Debug/Calculator_TRPO.exe
+/Users/evgenijbuss/Downloads/Calculator_TRPO/bin/Debug/Calculator_TRPO.pdb
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.csprojAssemblyReference.cache
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.Form1.resources
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.Properties.Resources.resources
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.csproj.GenerateResource.cache
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.exe
+/Users/evgenijbuss/Downloads/Calculator_TRPO/obj/Debug/Calculator_TRPO.pdb
